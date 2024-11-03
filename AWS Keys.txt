@@ -1,9 +1,0 @@
-AWS Service: IAM
-
-
-Access Key:
-AKIA4WJPWOJC76BPCUMZ
-
-
-Secret Access Key:
-1x72YgwQFE9w0XfJNuYr+AH+QqJXiqxRrSQunpFn
